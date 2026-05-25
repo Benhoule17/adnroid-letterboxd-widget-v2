@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Letterboxd Widgets</string>
+    <string name="recents_title">Recents</string>
+    <string name="favourites_title">Favourites</string>
+    <string name="recents_widget_description">Your 4 most recently watched films with ratings.</string>
+    <string name="favourites_widget_description">Your 4 favourite films on Letterboxd.</string>
+    <string name="config_title">Letterboxd Widget</string>
+    <string name="config_subtitle">Enter your Letterboxd username to get started.</string>
+    <string name="username_hint">Letterboxd username</string>
+    <string name="add_widget">Add Widget</string>
+    <string name="loading">Loading…</string>
+    <string name="error_no_username">Please enter a username.</string>
+    <string name="pref_username_key">username_%d</string>
+</resources>
